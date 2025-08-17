@@ -1,0 +1,22 @@
+# Archivos de api_key y configuración
+api_key.py
+*.pyc
+__pycache__/
+.env
+.venv
+env/
+venv/
+
+# Archivos de Streamlit
+.streamlit/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
